@@ -53,3 +53,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'telegram-bot'
 
 gem 'telegram-bot-ruby'
+
+gem 'coffee-script-source', '1.8.0'
