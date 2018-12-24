@@ -55,3 +55,5 @@ gem 'telegram-bot'
 gem 'telegram-bot-ruby'
 
 gem 'coffee-script-source', '1.8.0'
+
+gem "rails_12factor"
